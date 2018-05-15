@@ -1,0 +1,78 @@
+c:\users\administrador\documents\visual studio 2015\Projects\AudioInput\AudioInput\bin\Debug\AudioInput.exe.config
+c:\users\administrador\documents\visual studio 2015\Projects\AudioInput\AudioInput\bin\Debug\AudioInput.exe
+c:\users\administrador\documents\visual studio 2015\Projects\AudioInput\AudioInput\bin\Debug\AudioInput.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\AudioInput\AudioInput\bin\Debug\NAudio.dll
+c:\users\administrador\documents\visual studio 2015\Projects\AudioInput\AudioInput\bin\Debug\NAudio.xml
+c:\users\administrador\documents\visual studio 2015\Projects\AudioInput\AudioInput\obj\Debug\AudioInput.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2015\Projects\AudioInput\AudioInput\obj\Debug\MainWindow.g.cs
+c:\users\administrador\documents\visual studio 2015\Projects\AudioInput\AudioInput\obj\Debug\App.g.cs
+c:\users\administrador\documents\visual studio 2015\Projects\AudioInput\AudioInput\obj\Debug\AudioInput_MarkupCompile.cache
+c:\users\administrador\documents\visual studio 2015\Projects\AudioInput\AudioInput\obj\Debug\AudioInput_MarkupCompile.lref
+c:\users\administrador\documents\visual studio 2015\Projects\AudioInput\AudioInput\obj\Debug\MainWindow.baml
+c:\users\administrador\documents\visual studio 2015\Projects\AudioInput\AudioInput\obj\Debug\AudioInput.g.resources
+c:\users\administrador\documents\visual studio 2015\Projects\AudioInput\AudioInput\obj\Debug\AudioInput.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2015\Projects\AudioInput\AudioInput\obj\Debug\AudioInput.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2015\Projects\AudioInput\AudioInput\obj\Debug\AudioInput.exe
+c:\users\administrador\documents\visual studio 2015\Projects\AudioInput\AudioInput\obj\Debug\AudioInput.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\AudioInput\AudioInput\bin\Debug\Microsoft.Expression.Drawing.dll
+c:\users\administrador\documents\visual studio 2015\Projects\AudioInput\AudioInput\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+c:\users\administrador\documents\visual studio 2015\Projects\AudioInput\AudioInput\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+c:\users\administrador\documents\visual studio 2015\Projects\AudioInput\AudioInput\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+c:\users\administrador\documents\visual studio 2015\Projects\AudioInput\AudioInput\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+c:\users\administrador\documents\visual studio 2015\Projects\AudioInput\AudioInput\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+c:\users\administrador\documents\visual studio 2015\Projects\AudioInput\AudioInput\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+c:\users\administrador\documents\visual studio 2015\Projects\AudioInput\AudioInput\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+c:\users\administrador\documents\visual studio 2015\Projects\AudioInput\AudioInput\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+c:\users\administrador\documents\visual studio 2015\Projects\AudioInput\AudioInput\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Administrador\Documents\visual studio 2015\Projects\FrecInput\AudioInput\bin\Debug\AudioInput.exe.config
+C:\Users\Administrador\Documents\visual studio 2015\Projects\FrecInput\AudioInput\obj\Debug\AudioInput.exe
+C:\Users\Administrador\Documents\visual studio 2015\Projects\FrecInput\AudioInput\obj\Debug\AudioInput.pdb
+C:\Users\Administrador\Documents\visual studio 2015\Projects\FrecInput\AudioInput\bin\Debug\AudioInput.exe
+C:\Users\Administrador\Documents\visual studio 2015\Projects\FrecInput\AudioInput\bin\Debug\AudioInput.pdb
+C:\Users\Administrador\Documents\visual studio 2015\Projects\FrecInput\AudioInput\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Administrador\Documents\visual studio 2015\Projects\FrecInput\AudioInput\bin\Debug\NAudio.dll
+C:\Users\Administrador\Documents\visual studio 2015\Projects\FrecInput\AudioInput\bin\Debug\NAudio.xml
+C:\Users\Administrador\Documents\visual studio 2015\Projects\FrecInput\AudioInput\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Administrador\Documents\visual studio 2015\Projects\FrecInput\AudioInput\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Administrador\Documents\visual studio 2015\Projects\FrecInput\AudioInput\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Administrador\Documents\visual studio 2015\Projects\FrecInput\AudioInput\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Administrador\Documents\visual studio 2015\Projects\FrecInput\AudioInput\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Administrador\Documents\visual studio 2015\Projects\FrecInput\AudioInput\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Administrador\Documents\visual studio 2015\Projects\FrecInput\AudioInput\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Administrador\Documents\visual studio 2015\Projects\FrecInput\AudioInput\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Administrador\Documents\visual studio 2015\Projects\FrecInput\AudioInput\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Administrador\Documents\visual studio 2015\Projects\FrecInput\AudioInput\obj\Debug\AudioInput.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\visual studio 2015\Projects\FrecInput\AudioInput\obj\Debug\MainWindow.g.cs
+C:\Users\Administrador\Documents\visual studio 2015\Projects\FrecInput\AudioInput\obj\Debug\App.g.cs
+C:\Users\Administrador\Documents\visual studio 2015\Projects\FrecInput\AudioInput\obj\Debug\AudioInput_MarkupCompile.cache
+C:\Users\Administrador\Documents\visual studio 2015\Projects\FrecInput\AudioInput\obj\Debug\AudioInput_MarkupCompile.lref
+C:\Users\Administrador\Documents\visual studio 2015\Projects\FrecInput\AudioInput\obj\Debug\MainWindow.baml
+C:\Users\Administrador\Documents\visual studio 2015\Projects\FrecInput\AudioInput\obj\Debug\AudioInput.g.resources
+C:\Users\Administrador\Documents\visual studio 2015\Projects\FrecInput\AudioInput\obj\Debug\AudioInput.Properties.Resources.resources
+C:\Users\Administrador\Documents\visual studio 2015\Projects\FrecInput\AudioInput\obj\Debug\AudioInput.csproj.GenerateResource.Cache
+E:\ULSA\FrecInput\AudioInput\bin\Debug\AudioInput.exe.config
+E:\ULSA\FrecInput\AudioInput\obj\Debug\AudioInput.exe
+E:\ULSA\FrecInput\AudioInput\obj\Debug\AudioInput.pdb
+E:\ULSA\FrecInput\AudioInput\bin\Debug\AudioInput.exe
+E:\ULSA\FrecInput\AudioInput\bin\Debug\AudioInput.pdb
+E:\ULSA\FrecInput\AudioInput\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\ULSA\FrecInput\AudioInput\bin\Debug\NAudio.dll
+E:\ULSA\FrecInput\AudioInput\bin\Debug\NAudio.xml
+E:\ULSA\FrecInput\AudioInput\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+E:\ULSA\FrecInput\AudioInput\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+E:\ULSA\FrecInput\AudioInput\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+E:\ULSA\FrecInput\AudioInput\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+E:\ULSA\FrecInput\AudioInput\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+E:\ULSA\FrecInput\AudioInput\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+E:\ULSA\FrecInput\AudioInput\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+E:\ULSA\FrecInput\AudioInput\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+E:\ULSA\FrecInput\AudioInput\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+E:\ULSA\FrecInput\AudioInput\obj\Debug\AudioInput.csprojResolveAssemblyReference.cache
+E:\ULSA\FrecInput\AudioInput\obj\Debug\MainWindow.g.cs
+E:\ULSA\FrecInput\AudioInput\obj\Debug\App.g.cs
+E:\ULSA\FrecInput\AudioInput\obj\Debug\AudioInput_MarkupCompile.cache
+E:\ULSA\FrecInput\AudioInput\obj\Debug\AudioInput_MarkupCompile.lref
+E:\ULSA\FrecInput\AudioInput\obj\Debug\MainWindow.baml
+E:\ULSA\FrecInput\AudioInput\obj\Debug\AudioInput.g.resources
+E:\ULSA\FrecInput\AudioInput\obj\Debug\AudioInput.Properties.Resources.resources
+E:\ULSA\FrecInput\AudioInput\obj\Debug\AudioInput.csproj.GenerateResource.Cache

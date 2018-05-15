@@ -1,0 +1,55 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AudioInput"
+        xmlns:ed="http://schemas.microsoft.com/expression/2010/drawing" x:Class="AudioInput.MainWindow"
+        mc:Ignorable="d"
+        Title="Procesamiento de audio" Height="350" Width="702">
+    <Grid Background="#FF6E6C6C" x:Name="gridPrincipal">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Rectangle Fill="#FF345D18" Height="2" Width="100" Grid.Column="0" Grid.RowSpan="12"/>
+        <Ellipse x:Name="elipse"  Fill="#FF18185D" Grid.Column="0" Width="40" Height="40" Grid.RowSpan="12"/>
+        <Button x:Name="btnIniciar" Grid.RowSpan="12" Content="Iniciar" Grid.Column="4" HorizontalAlignment="Right" Margin="0,10,10,0" VerticalAlignment="Top" Width="75" Background="#FFD8BEBE" FontFamily="Calibri Light" FontSize="18" FontStretch="Condensed" FontWeight="Thin" Click="btnIniciar_Click" />
+        <Button x:Name="btnFinalizar" Grid.RowSpan="12" Content="Finalizar" Grid.Column="4" HorizontalAlignment="Right" Margin="0,40.973,10,0" VerticalAlignment="Top" Width="75" Background="#FFD8BEBE" FontFamily="Calibri Light" FontSize="18" FontStretch="Condensed" FontWeight="Thin" Click="btnFinalizar_Click" />
+        <TextBlock x:Name="lblFrecuencia" Grid.RowSpan="12" Grid.Column="2" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" d:LayoutOverrides="VerticalAlignment, Width" FontSize="38"/>
+        <TextBlock x:Name="lblTono" Grid.RowSpan="12" Grid.Column="1" TextWrapping="Wrap" Text="-" VerticalAlignment="Top" FontSize="38" d:LayoutOverrides="VerticalAlignment, Width"/>
+        <TextBlock x:Name="lblFrecTono" Grid.RowSpan="12" Grid.Column="1" TextWrapping="Wrap" Text="-" VerticalAlignment="Top" FontSize="38" d:LayoutOverrides="Width" Margin="0,258.456,0,0"/>
+        <TextBlock x:Name="lblA" Grid.Column="3" Grid.Row="0" TextWrapping="Wrap" Text="A" d:LayoutOverrides="Width, Height"/>
+        <TextBlock x:Name="lblAS" Grid.Column="3" Grid.Row="1" TextWrapping="Wrap" Text="A#" d:LayoutOverrides="Width, Height"/>
+        <TextBlock x:Name="lblB" Grid.Column="3" Grid.Row="2" TextWrapping="Wrap" Text="B" d:LayoutOverrides="Width, Height"/>
+        <TextBlock x:Name="lblC" Grid.Column="3" Grid.Row="3" TextWrapping="Wrap" Text="C" d:LayoutOverrides="Width, Height"/>
+        <TextBlock x:Name="lblCS" Grid.Column="3" Grid.Row="4" TextWrapping="Wrap" Text="C#" d:LayoutOverrides="Width, Height"/>
+        <TextBlock x:Name="lblD" Grid.Column="3" Grid.Row="5" TextWrapping="Wrap" Text="D" d:LayoutOverrides="Width, Height"/>
+        <TextBlock x:Name="lblDS" Grid.Column="3" Grid.Row="6" TextWrapping="Wrap" Text="D#" d:LayoutOverrides="Width, Height"/>
+        <TextBlock x:Name="lblE" Grid.Column="3" Grid.Row="7" TextWrapping="Wrap" Text="E" d:LayoutOverrides="Width, Height"/>
+        <TextBlock x:Name="lblF" Grid.Column="3" Grid.Row="8" TextWrapping="Wrap" Text="F" d:LayoutOverrides="Width, Height"/>
+        <TextBlock x:Name="lblFS" Grid.Column="3" Grid.Row="9" TextWrapping="Wrap" Text="F#" d:LayoutOverrides="Width, Height"/>
+        <TextBlock x:Name="lblG" Grid.Column="3" Grid.Row="10" TextWrapping="Wrap" Text="G" d:LayoutOverrides="Width, Height"/>
+        <TextBlock x:Name="lblGS" Grid.Column="3" Grid.Row="11" TextWrapping="Wrap" Text="G#" d:LayoutOverrides="Width, Height"/>
+        <Ellipse x:Name="elipseTono"  Fill="#FF5094B4" Grid.Column="3" Grid.Row="0" Width="10" Height="10" />
+
+
+    </Grid>
+</Window>
